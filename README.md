@@ -26,6 +26,5 @@ Here are some ideas to get you started:
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=clarkes23&show_icons=true&locale=en" alt="clarkes23" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=clarkes23&" alt="clarkes23" /></p>
