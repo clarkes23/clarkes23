@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=clarkes23&label=Profile%20views&color=0e75b6&style=flat" alt="clarkes23" /> </p>
 
-- 🔭 I’m currently working on an automated installer for VWorks custom drivers [VWorks Automation Driver Installer](https://github.com/eikontx/VWorksAutomationDriverInstaller)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shaun-c-00629496" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaun-c-00629496" height="30" width="40" /></a>
